@@ -1,0 +1,12 @@
+.all{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(53, 52, 52);
+}
+
+.pop> h2{
+    margin-left: 20px;
+}

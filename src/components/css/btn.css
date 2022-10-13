@@ -1,0 +1,10 @@
+.more > button{
+    margin-left: 21%;
+    height: 30px;
+    width: 50rem;
+    background-color: black;
+    color: aliceblue;
+   border-radius: 3px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}

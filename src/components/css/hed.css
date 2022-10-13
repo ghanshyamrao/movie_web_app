@@ -1,0 +1,27 @@
+.img_avg {
+    flex: 0.2 0.8 0.2;
+    height:400px;
+    width: 100%;
+    background-color: dimgrey;
+    background-image: url('../img/capt.jpg');
+    background-size: cover;   
+}
+.title_disc{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex:1;
+    margin-left: 320px;
+    margin-top: 10%;
+}
+
+.title_disc > h2{
+margin-left: 0;
+flex:0.4;
+}
+
+.img_avg > p{
+    color: rgb(2, 33, 60);
+}
+
+
