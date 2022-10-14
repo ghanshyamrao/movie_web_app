@@ -1,0 +1,42 @@
+.movie_t_b_r{
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-left: -10rem;
+}
+.movie_t_b_r p{
+
+    padding-left: 15rem;
+ 
+}
+
+.icon{
+    height: 2rem;
+    width: 2rem;
+}
+
+a:link{
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.Home_link{
+    color: aliceblue;
+    margin-right: 44rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.link{
+    display: flex;
+    color:aliceblue;
+}
+
+.actor{
+    margin-left: 16.2rem;
+    margin-top: 10px;
+}
+.row{
+    margin-left: -3rem;
+}
