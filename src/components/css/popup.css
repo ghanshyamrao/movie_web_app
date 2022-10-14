@@ -1,0 +1,42 @@
+.popup{
+    display: flex;
+    color:aliceblue;
+    height: 20rem;
+    width: 60rem;
+    background-color: rgba(0, 0, 0, 0.605);
+    margin-top: 30px;
+    margin-left: 20%;
+    border-radius: 4px;
+}
+
+.pop_img img{
+    height: 20rem;
+    width: 20rem;
+}
+
+
+.item{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 2vmin;
+    margin-top: 4rem;
+    margin-left: 4rem;
+}
+.sub_item{
+    display: flex;
+}
+
+.sub_item p{
+    height: 4rem;
+    width: 16rem;
+    color:rgb(0, 0, 0);
+    font-size: 12px ;
+    font-family:cursive;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+

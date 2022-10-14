@@ -1,0 +1,13 @@
+.card{
+    height:13rem;
+    width: 13rem;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.card >img{
+    height: 13rem;
+    width: 13rem;
+    border-radius: 5px;
+    margin-left: -12px;
+}
