@@ -1,0 +1,37 @@
+.all{
+    display:flex;
+    flex-wrap: wrap;
+    flex: 0.8;
+    flex-direction: row;
+    justify-content: center;
+    background-color:#060606d1; 
+}
+
+.box{
+    margin-top:-10px;
+    margin-left: 45px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center!important;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom:30px;
+}
+
+.btn{
+    height: 40px;
+    width:56rem;
+    background-color: rgba(0, 0, 0, 0.907);
+    color:whitesmoke;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.g{
+    margin-left: 7rem;
+    margin-bottom: 10px;
+}

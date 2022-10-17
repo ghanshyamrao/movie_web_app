@@ -1,0 +1,24 @@
+.input{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgba(85, 85, 85, 0.568);
+    border-radius: 60px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+::placeholder{
+    color:rgb(255, 255, 255);
+}
+.input > input{
+    height:40px;
+    width:55rem;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    margin-left: 18px;
+    font-weight: 700;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}

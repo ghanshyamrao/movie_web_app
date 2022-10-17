@@ -1,0 +1,53 @@
+.movie_t_b_r{
+    display: flex;
+    color: aliceblue;
+    margin-top: 10px;
+    margin-right: 13.8rem;
+}
+.movie_t_b_r p{
+    margin-left: 9rem;
+    color:white;
+    font-weight: 500;
+
+}
+.icon{
+    color:white;
+    height: 2rem;
+    width: 2rem;
+}
+
+a:link{
+    color: aliceblue;
+    background-color: transparent;
+    text-decoration: none;
+}
+.Home_link{
+    color: aliceblue;
+    margin-right: 44rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.link{
+    display: flex;
+    color:aliceblue;
+    margin-right: 20px;
+    cursor: pointer;
+   
+}
+
+
+.actor{
+    margin-left: 13rem;
+    margin-top: 10px;
+}
+.row{
+    margin-left: -8rem;
+}
+
+
+.row Link{
+    display:flex-row;
+}
+

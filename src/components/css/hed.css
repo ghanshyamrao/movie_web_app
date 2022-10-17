@@ -1,0 +1,28 @@
+.img_avg {
+    flex: 0.2 0.8 0.2;
+    height:400px;
+    width: 100%;
+    background-color: dimgrey;
+    background-image: url(../img/avg3.jpg);
+    background-size: cover;   
+}
+.title_disc{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex:1;
+    margin-left: 220px;
+    margin-top: 17%;
+}
+.movie_title {
+    color:rgb(255, 255 , 255);
+   
+}
+
+.movie_disc{
+    width:35rem;
+    color:rgb(255, 255, 255);
+    font-weight: 500;
+    text-align: 20px;
+}
